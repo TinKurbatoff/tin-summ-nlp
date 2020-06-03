@@ -1,4 +1,4 @@
-# Text-Summarizer-Pytorch
+# Tin-summ-nlp
 Combining [A Deep Reinforced Model for Abstractive Summarization](https://arxiv.org/pdf/1705.04304.pdf) and [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)
 It is deeply reconsidered [fork](https://github.com/rohithreddy024/Text-Summarizer-Pytorch)
 
